@@ -1,29 +1,19 @@
 
-# OpenCV Library
+# Youtube Search
 
-The POC contains different methods and features used in OpenCV Library. 
+This repository will present how to use the YouTube Data API to search for YouTube videos on display them in Django app. In addition to this, it will show videos length and view button.
 
-## Installation
+## Introduction
+The project shows integration with Youtube Data API. The search bar interacts with api and display all the videos according to typed content. It has various features like Video title, duration of the video, thumbnail. 
+## Features
 
-To run this project :
+- Youtube Search Bar Functionality
+- Shows Title of the searched content
+- Thumbnail of the Video
+- Duration of the Video
+- Added the button to play topmost Video from the list
 
-```bash
-  pip install -r requirements.txt
+## References
+Youtube Data API Docs: https://console.developers.google.com/
 
-```
-
-
-## Basic Concepts
-
-- Reading of Images and Videos
-- Used Image Transformations
-- Resizing and Rescaling Images and Video Frames
-- Drawing Shapes and Placing text on images
-- Contour Detection 
-
-
-## Some Advance Concepts
-- Blurring of Images
-- Bitwise Operations performed on Sample Images
-- Histogram Computation
-- Face Detection Using Haar Cascades
+Google Developer Console : https://console.developers.google.com/
