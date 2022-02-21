@@ -6,8 +6,7 @@ This repository will present how to use the YouTube Data API to search for YouTu
 ## Introduction
 The project shows integration with Youtube Data API. The search bar interacts with api and display all the videos according to typed content. It has various features like Video title, duration of the video, thumbnail. 
 
-##Installation
-- pip install django
+
 ## Features
 
 - Youtube Search Bar Functionality
